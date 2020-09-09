@@ -1,0 +1,15 @@
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\bin\Debug\netcoreapp3.1\FormApp.exe
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\bin\Debug\netcoreapp3.1\FormApp.deps.json
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\bin\Debug\netcoreapp3.1\FormApp.runtimeconfig.json
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\bin\Debug\netcoreapp3.1\FormApp.runtimeconfig.dev.json
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\bin\Debug\netcoreapp3.1\FormApp.dll
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\bin\Debug\netcoreapp3.1\FormApp.pdb
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\obj\Debug\netcoreapp3.1\FormApp.csprojAssemblyReference.cache
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\obj\Debug\netcoreapp3.1\FormApp.Form1.resources
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\obj\Debug\netcoreapp3.1\FormApp.csproj.GenerateResource.cache
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\obj\Debug\netcoreapp3.1\FormApp.AssemblyInfoInputs.cache
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\obj\Debug\netcoreapp3.1\FormApp.AssemblyInfo.cs
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\obj\Debug\netcoreapp3.1\FormApp.csproj.CoreCompileInputs.cache
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\obj\Debug\netcoreapp3.1\FormApp.dll
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\obj\Debug\netcoreapp3.1\FormApp.pdb
+C:\Users\sarthakmahajan\Desktop\FormApp\FormApp\obj\Debug\netcoreapp3.1\FormApp.genruntimeconfig.cache
